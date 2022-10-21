@@ -11,13 +11,13 @@ a description of my project
 
 ### Wireframes
 
-![SOme text](https://i.ytimg.com/vi/mRf3-JkwqfU/mqdefault.jpg)
+![Yu-Gi-Oh! Card Template](https://imgur.com/a/SpMv7dA)
 
 ### Daily Plan
 
-| Day | Goal |
-|-----|------|
-| 1 | Choose API |
+| Day | Goal | Info1| Info2 |
+|-----|------|------|-------|
+| 1 | Choose API | Yu-gi-Oh API | 
 | 2 | Render data to screen |
 | 3 | Create form |
 
