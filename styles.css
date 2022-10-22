@@ -2,7 +2,9 @@ h1 {
     text-align: center;
     color: antiquewhite;
 }
-
+h2 {
+    color: antiquewhite;
+}
 body {
     background-color: black;
     text-align: center;
