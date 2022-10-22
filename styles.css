@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+    color: antiquewhite;
+}
+
+body {
+    background-color: black;
+    text-align: center;
+    background-image: url(https://whatifgaming.com/wp-content/uploads/2021/11/Noelle-byOniiSama18.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
