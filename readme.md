@@ -1,11 +1,11 @@
-# The Name of My App
+# Genshin Index
 
-a description of my project
+Display characters, artifacts and weapons in the game.
 
 ### Technologies Used
 
-- tech
-- tech 2
+- Google
+- Genshin API
 - tech 3
 - tech 4
 
