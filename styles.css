@@ -8,10 +8,13 @@ h2 {
 body {
     background-color: black;
     text-align: center;
-    background-image: url(https://whatifgaming.com/wp-content/uploads/2021/11/Noelle-byOniiSama18.jpg);
+    background-image: url(https://wallpapercave.com/wp/wp2279395.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
     background-attachment: fixed;
     background-size: 100% 100%;
+}
+p {
+    color: antiquewhite;
 }
