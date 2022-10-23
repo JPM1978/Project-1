@@ -20,7 +20,7 @@ $("input[type=submit]").on("click", (event) => {
         <h1>${card.name}</h1>
         <p> Type: ${card.type} </p>
         <p class="description"> Description: ${card.desc} </p>
-        <img src="${card.card_images[0].image_url_small}"> 
+        <img src="${card.card_images[0].image_url}"> 
        `);
       
       document.getElementById("CharacterName").value = "";
