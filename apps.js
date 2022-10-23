@@ -19,7 +19,7 @@ $("input[type=submit]").on("click", (event) => {
       $main.html(`
         <h1>${card.name}</h1>
         <p> Type: ${card.type} </p>
-        <p> Description: ${card.desc} </p>
+        <p class="description"> Description: ${card.desc} </p>
         <img src="${card.card_images[0].image_url_small}"> 
        `);
       
@@ -30,11 +30,3 @@ $("input[type=submit]").on("click", (event) => {
     }
   );
 });
-
-
-
-$.ajax("https://db.ygoprodeck.com/api/v7/cardinfo.php")
-.then((data) => {
-  console.log(data.data[0])
-})
-

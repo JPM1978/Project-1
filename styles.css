@@ -18,3 +18,8 @@ body {
 p {
     color: antiquewhite;
 }
+.description {
+    width: 600px;
+    margin: auto;
+    padding-bottom: 20px;
+}
