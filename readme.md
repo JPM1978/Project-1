@@ -7,20 +7,23 @@ The application is to show the different characters, artifacts and weapons in th
 - CSS
 - JavaScript
 - jQuery
+- 
 
 ### Wireframes
 
-[link text](https://genshin.hoyoverse.com/pc-launcher/?utm_source=NA_google_US_search_keywords_EventA_Test_20210615&mhy_trace_channel=ga_channel&new=1&gclid=Cj0KCQjwqc6aBhC4ARIsAN06NmPMvj2dQDlYKK_mgx4h1yv31wBto6ogqgDbhVRaxFSZQWGtfCF09-gaAge6EALw_wcB#/)
+![Yu-Gi-Oh! Card Index page](https://user-images.githubusercontent.com/114038030/197371186-22a0553c-520c-4e51-9b3a-4e3bcae78d9a.png)
 
-![Genshin Image](https://i.imgur.com/axN3f1j.jpg)
+![Yu-Gi-Oh! Card Index Page](https://user-images.githubusercontent.com/114038030/197371123-82aa7556-a620-49a3-a8a4-327e39ab4498.png)
+
+
 
 ### Daily Plan
 
 | Day | Goal | Info1| Info2 |
 |-----|------|------|-------|
-| 1 | Choose API | Genshin API | 
+| 1 | Choose API | Yu-Gi-Oh! API | 
 | 2 | Render data to screen |
 | 3 | Create form | character/weapon/artifacts |
 
 ### Link to Project
-[My Project Live Page](https://projectone-sepia.vercel.app/)
+[Link to Webpage](https://projectone-sepia.vercel.app/)
