@@ -23,9 +23,9 @@ The application is to show the different characters, artifacts and weapons in th
 | 1 | Choose API | Yu-Gi-Oh! API | 
 | 2 | Render data to screen |
 | 3 | Create form | card name |
-| 4 | Tests for errors |
-| 5 | CSS styling |
-| 6 | Edit Java for multiple cards |
+| 4 | Tests for errors | display multiple images |
+| 5 | CSS styling | Display, buttons, visibility |
+| 6 | Edit Java for multiple cards | more attributes displayed |
 | 7 | Debug, test, final edits |
 | 8 | Present Project |
 
