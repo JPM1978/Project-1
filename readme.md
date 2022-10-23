@@ -1,4 +1,4 @@
-# Genshin Index
+# Yu-Gi-Oh! Card Index
 The application is to show the different characters, artifacts and weapons in the game, Genshin Impact. 
 
 ### Technologies Used
@@ -7,7 +7,6 @@ The application is to show the different characters, artifacts and weapons in th
 - CSS
 - JavaScript
 - jQuery
-- 
 
 ### Wireframes
 
