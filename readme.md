@@ -23,7 +23,13 @@ The application is to show the different characters, artifacts and weapons in th
 |-----|------|------|-------|
 | 1 | Choose API | Yu-Gi-Oh! API | 
 | 2 | Render data to screen |
-| 3 | Create form | character/weapon/artifacts |
+| 3 | Create form | card name |
+| 4 | Tests for errors |
+| 5 | CSS styling |
+| 6 | Edit Java for multiple cards |
+| 7 | Debug, test, final edits |
+| 8 | Present Project |
+
 
 ### Link to Project
 [Link to Webpage](https://projectone-sepia.vercel.app/)

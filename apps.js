@@ -26,7 +26,7 @@ $("input[type=submit]").on("click", (event) => {
       document.getElementById("CharacterName").value = "";
     },
     function (error) {
-      console.log("Error: ", error);
+      console.log("Your search returned no results, please try again! ", error);
     }
   );
 });
