@@ -22,7 +22,7 @@ $("input[type=submit]").on("click", (event) => {
         <p> Type: ${card.race} / ${card.type} </p>
         <p> Attack: ${card.atk} / Defense: ${card.def}</p>          
         <p> Attribute: ${card.attribute} / Archetype: ${card.archetype} </p> 
-        <p class="description"> Description: ${card.desc} </p>
+        <p  class="description"> Description: ${card.desc} </p>
         <img src="${card.card_images[0].image_url}"> 
        `);
       
