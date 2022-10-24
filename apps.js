@@ -14,7 +14,7 @@ function generateCards(data) {
     convertData(data.data);
     console.log(cardInfo)
     $main.empty();
-    for (let i = 0; i < 10; i++){
+    for (let i = 0; i < 50; i++){
       const card = cardInfo[i];
       $main.append(`
       <h1>${card.name}</h1>
