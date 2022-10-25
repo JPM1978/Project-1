@@ -5,6 +5,9 @@ h1 {
 h2 {
     color: antiquewhite;
 }
+h3 {
+    color: antiquewhite;
+}
 body {
     background-color: black;
     text-align: center;
@@ -23,18 +26,14 @@ p {
     margin: auto;
     padding-bottom: 20px;
 }
-hover {
-    background-color: yellow;
-  }
 
 .button {
     cursor: pointer;
 }  
 footer {
    position:fixed;
-   left:400px;
+   left: 500px;
    bottom:100px;
    height:30px;
    width:100%;
-   color: antiquewhite;
 }
