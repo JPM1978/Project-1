@@ -26,3 +26,7 @@ p {
 hover {
     background-color: yellow;
   }
+
+.button {
+    cursor: pointer;
+}  
