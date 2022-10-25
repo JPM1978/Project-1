@@ -30,3 +30,11 @@ hover {
 .button {
     cursor: pointer;
 }  
+footer {
+   position:fixed;
+   left:400px;
+   bottom:100px;
+   height:30px;
+   width:100%;
+   color: antiquewhite;
+}
