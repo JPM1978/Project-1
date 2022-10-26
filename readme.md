@@ -7,6 +7,7 @@ The application is to show the different characters, artifacts and weapons in th
 - CSS
 - JavaScript
 - jQuery
+- Postman Json reader
 
 ### Wireframes
 
