@@ -12,10 +12,10 @@ function generateCards(data) {
     const $main = $("main");
 
     convertData(data.data);
-    console.log(cardInfo)
+    console.log(data);
     $main.empty();
   // for loop to display multiple cards on page  
-    for (let i = 0; i < 50; i++){
+    for (let i = 0; i < data.data.length; i++){
       const card = cardInfo[i];
       $main.append(`
       <h1>${card.name}</h1>
