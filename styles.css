@@ -13,7 +13,7 @@ body {
     text-align: center;
     background-image: url(https://wallpapercave.com/wp/wp2279395.jpg);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
     background-position: center center;
     background-attachment: fixed;
     background-size: 100% 100%;
