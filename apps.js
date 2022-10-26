@@ -24,7 +24,7 @@ function generateCards(data) {
       <p> Attack: ${card.atk} / Defense: ${card.def}</p>          
       <p> Attribute: ${card.attribute} / Archetype: ${card.archetype} </p> 
       <p  class="description"> Description: ${card.desc} </p>
-      <img src="${card.card_images[0].image_url}"> 
+      <img class="imgPad" src="${card.card_images[0].image_url}"> 
      `);
     }
 

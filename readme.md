@@ -25,10 +25,10 @@ The application is to show the different characters, artifacts and weapons in th
 | 2 | Render data to screen |
 | 3 | Create form | card name |
 | 4 | Tests for errors | display multiple images |
-| 5 | CSS styling | Display, buttons, visibility |
+| 5 | CSS styling | Display, buttons, visulals |
 | 6 | Edit Java for multiple cards | more attributes displayed |
-| 7 | Debug, test, final edits |
-| 8 | Present Project |
+| 7 | Debug, test, final edits | Bugs fixed as of 10.26.22 |
+| 8 | Present Project | Presentation ready |
 
 
 ### Link to Project

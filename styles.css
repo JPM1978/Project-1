@@ -22,9 +22,14 @@ p {
     color: antiquewhite;
 }
 .description {
+    border-style: double;
+    border-color: gold;
     width: 600px;
     margin: auto;
-    padding-bottom: 20px;
+    padding: 10px;
+}
+.imgPad {
+    padding-top: 20px;
 }
 
 .button {
