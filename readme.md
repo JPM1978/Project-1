@@ -1,5 +1,5 @@
 # Yu-Gi-Oh! Card Index
-The application is to show the different characters, artifacts and weapons in the game, Genshin Impact. 
+The application is to show the different and look up the many different cards in the yugioh universe. (Japanese Cards included too)
 
 ### Technologies Used
 
