@@ -11,7 +11,7 @@ h3 {
 body {
     background-color: black;
     text-align: center;
-    background-image: url(https://wallpapercave.com/wp/wp2279395.jpg);
+    background-image: url(https://lh3.googleusercontent.com/mz6hDKXQJDzTQDEzrKYzx-8vTOBlz1mEKia-uq9U2rFFeOpjbSTGjiiY3hSPk2_f-PaMEb3hXcXXiF3mVZL_5I7ofEsrDrxxMnh0daAJMasFD-Jf0QBqmQcLI_7hbCFNbG73g07IqyAoM4BTaA1TzUV4N6_i_zy2JgxB3ircmtHCgeqRuediwuZ0yCmfSmHg3AtvAc4fbrB1equ5EOsylY1zKH5EtO63mCxm-tSpDo2o1GQmh-elFBEYG_mH4nDhNOhizOeWCHyCqgBVdNugpZkohoukWHOZOyG1SJgnLGfqGGYEf4fR7GwelVfTqe6BG6YRANfNKFBfyE7I51DCzNnO1Zc4GyVGW4cow3WcjjlhD8wbLCsHTRCRLvRGyTPeI4bQUuKreRgRYZ4m5MY6LrvqKMWwcnGIWdz20-iay7Ko7cHlrXXXBR1t27ft0d-sbNKTtmpoikWWqu8Y8K1PM277OXH0lnOeUuozjB3kdYCvhfLfFyMorvd-xvYNMWmLDs0T47adJLsJXBWLtW81CC16ka16C27zYKhGwqzxCHVe3_TaevaxeUfFgSqxv0MENdSME-UhWyfSQYRAPEEjrXRQEsoh0gzE1OihkK6lZTuza0aL1Uv6CmYleEObNwLniseR7OaYybqS_7jwKt5_wYO9RxKKjrBRMETOT-nXwxglTNORegmIMkx989fDGyfP6PYQ6omFDxOeKZ4VjzdqUxel7z2UFl1-Oqj32EsJVPNFAnEcbTlphR3BEkhehVnb3j_eEdd0iKPhGaV2VGUKEgRBVatk-1ujFAvJWHMdEQ2JHiutn7wgYXOnFdSyKaGsu1OZIVkAaEyIGlbpBBI4e8H-Fi_Nti_vcjgB7yfMxDpdGnRHMLJKffSBh8Ue3kk9R3bZESqPQONMar7ORG5eWas6OQyJbJZQ37GTJe_Hifm54H6F=w1920-h1080-no?authuser=0);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -27,6 +27,14 @@ p {
     width: 600px;
     margin: auto;
     padding: 10px;
+}
+.image1 {
+    width: 35%;
+    height: 100%;
+    padding-left: 900px;
+    left: 300px; 
+    top: 100px;  
+
 }
 .imgPad {
     padding-top: 20px;
@@ -47,5 +55,7 @@ footer {
 .footerlinks {
     color: aqua;
 }
+
+
 
 /* just updating to confirm github receiving new data */
