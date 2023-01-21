@@ -65,7 +65,7 @@ footer {
    text-emphasis-color:antiquewhite;
 }
 .footerlinks {
-    position: fixed;
+    position: relative;
     color: aqua;
 }
 
